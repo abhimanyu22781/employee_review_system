@@ -12,6 +12,6 @@ EJS
 Install
 To install all the dependences of the project, run the following command:
 
-git clone https://github.com/shakti1590/employee-review-sys.git
+git clone [https://github.com/shakti1590/employee-review-sys.git](https://github.com/abhimanyu22781/employee_review_system)https://github.com/abhimanyu22781/employee_review_system
 npm install
 npm start
